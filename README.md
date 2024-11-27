@@ -16,4 +16,4 @@ I usually use the PCR machine for small samples but I cannot measure pH directly
 This is such a simple build that I just documented that in a video. If you are patient enough to 3D print for 2 days you can also try the 3D model included. I found a decent project box so I was spared the aggravation. 
 
 I tested it to 50 Celsius. It's slow to get there so better start with hot water. If you need more add another serial silicone heat pad or you can do parallel and change the power supply to 24 volts. The pads can be 20 watts  or 30 watts.
-[an example of pad](https://github.com/AdrianMolecule/waterbath)
+[an example of pad](https://www.amazon.ca/Silicone-Heating-Engine-Battery-Heaters/dp/B0CNQ6JD86/ref=asc_df_B0CNQ6JD86/?tag=googleshopc0c-20&linkCode=df0&hvadid=706841311325&hvpos=&hvnetw=g&hvrand=13984078743959481989&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9000708&hvtargid=pla-2299196231753&psc=1&mcid=21efbc3fe4a2327c8d17c8627e26e8c8&gad_source=1)
