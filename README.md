@@ -14,3 +14,6 @@ In summary, a water bath is good for providing the precise temperature control n
 
 I usually use the PCR machine for small samples but I cannot measure pH directly in small tubes and while that can be done bfor y adding hot water in a pot I finally decided to design and build a water bath.
 This is such a simple build that I just documented that in a video. If you are patient enough to 3D print for 2 days you can also try the 3D model included. I found a decent project box so I was spared the aggravation. 
+
+I tested it to 50 Celsius. It's slow to get there so better start with hot water. If you need more add another serial silicone heat pad or you can do parallel and change the power supply to 24 volts. The pads can be 20 watts  or 30 watts.
+[an example of pad](https://github.com/AdrianMolecule/waterbath)
